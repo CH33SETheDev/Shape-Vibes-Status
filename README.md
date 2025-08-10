@@ -8,7 +8,7 @@ but this can be used to see if the game is online or on lockdown without going i
 # How to use
 --------------------
 
-it is **not** case-sensitive so you can LocKDowN and it won't care
+it is **not** case-sensitive so you can do LocKDowN and it won't care
 Set the status file to:
 
 ## Online
